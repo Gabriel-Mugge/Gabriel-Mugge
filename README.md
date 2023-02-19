@@ -16,15 +16,21 @@ Desenvolvedor RPA.
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width='60px'>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='60px'>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"  width='60px'>
-</div>
+</div><br><br>
 
-
+### Status:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Mugge&layout=compact)](https://github.com/Gabriel-Mugge/github-readme-stats)
          
           
 <div>
          <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Mugge&show_icons=true&theme=radical" >
 </div>
+
+
+### Contato:
+<a href='https://www.linkedin.com/in/gabrielmugge-351255118'>
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 
 
