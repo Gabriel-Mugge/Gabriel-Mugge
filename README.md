@@ -18,7 +18,7 @@ Desenvolvedor RPA.
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"  width='60px'>
 </div>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Mugge&layout=compact)](https://github.com/Gabriel-Mugge/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Mugge&show_icons=true&theme=radical)
           
           
