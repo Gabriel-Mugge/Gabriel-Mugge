@@ -20,7 +20,7 @@ Desenvolvedor RPA.
 
 
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Mugge&layout=compact)](https://github.com/Gabriel-Mugge/github-readme-stats)
+
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Mugge&repo=github-readme-stats" >
           <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Mugge&show_icons=true&theme=radical" >
 </div>
