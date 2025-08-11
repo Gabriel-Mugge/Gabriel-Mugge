@@ -1,7 +1,7 @@
 ### Olá, tudo supimpa? 
 
 Prazer, Gabriel Mügge 😀.<br>
-Dev Fullstack epecialista em Django, Laravel e Vuejs.
+Dev Fullstack especialista em Django, Laravel e Vuejs.
 
 ### Principais Tecnologias:
 <div>
